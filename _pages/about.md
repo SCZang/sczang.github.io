@@ -29,10 +29,10 @@ My research interests include machine learning and artificial intelligence gener
 <p align="center">Self-organizing sketch patterns in a latent hierarchy</p>
 
 <img src="images/sketch analogy.png" width="450" alt="analogy"/>  
-<p align="center">Sketch analogy</p>
+<p align="center">Sketch analogy by capturing latent operators</p>
 
 <img src="images/sketch healing.png" width="650" alt="healing"/>  
-<p align="center">Sketch healing</p>
+<p align="center">Sketch healing by learning graphic sketch representations</p>
 
 Publications
 ======
