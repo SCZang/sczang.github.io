@@ -81,12 +81,13 @@ analytics:
 author:
   name             : "Sicong Zang (臧思聪)"
   avatar           : "profile.png"
-  bio              : "Lecturer, School of Computer Science and Technology, Donghua University, Shanghai, China"
+  bio              : "School of Computer Science and Technology, Donghua University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google,com/citations?user=0R8uikQAAAAJ"
-  email            : "sczang@dhu.edu.cn"
+  email            : sczang@dhu.edu.cn "sczang@dhu.edu.cn"
+  room             : Room 253, No.1 Academic Building, Songjiang Campus
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
