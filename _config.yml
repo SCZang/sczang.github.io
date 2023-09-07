@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Sicong Zang (臧思聪)"
-  avatar           : "./images/sczang.png"
+  avatar           : "sczang.png"
   bio              : "School of Computer Science and Technology, Donghua University"
   location         : "Shanghai, China"
   employer         :
