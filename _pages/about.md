@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sicong Zang (臧思聪)"
+title: ""
 excerpt: "Sicong Zang"
 author_profile: true
 redirect_from: 
@@ -12,10 +12,10 @@ School of Computer Science and Technology
 Donghua University  
 Shanghai, China, 201620
 
-**Office**: Room 253, No.1 Academic Building, Songjiang Campus  
+**Office**: Room 253, Academic Building #1, Songjiang Campus  
 **E-mail**: sczang@dhu.edu.cn
 
-
+欢迎志愿参加各类数学建模竞赛的本科生和研究生联系我。作为队长，我在2012-2015年间获得8次省级以上奖项（含全国大学生/研究生数学建模竞赛、统计建模竞赛、电工数学建模竞赛等）。我相信可以带领大家斩获佳绩！
 
 Biography
 ======
@@ -23,7 +23,7 @@ I am a lecturer at School of Computer Science and Technology, Donghua University
 
 Research Interests
 ======
-My research interests include machine learning and artificial intelligence generated content (AIGC). And currently, I focus on the topics of creative design and synthesis reasoning on sketches, and here follows several interest results of my recent studies. More details are available from my publication below.
+My research interests include machine learning and artificial intelligence generated content (AIGC). And currently, I focus on the topics of creative design and synthesis reasoning on sketches, and you can have a brief look about some interesting results. More details are available in my publication below.
 
 
 Publications
