@@ -26,13 +26,13 @@ Research Interests
 My research interests include machine learning and artificial intelligence generated content (AIGC). And currently, I focus on the topics of creative design and synthesis reasoning on sketches, and you can have a brief look about some interesting results. More details are available in my publication below.
 
 <img src="images/self-organization.png" width="950" alt="self-organization"/>  
-*Self-organizing sketch patterns in a latent hierarchy*
+<p align="center">***Self-organizing sketch patterns in a latent hierarchy***</p>
 
 <img src="images/sketch analogy.png" width="450" alt="analogy"/>  
-*Sketch analogy*
+<p align="center">*Sketch analogy*</p>
 
 <img src="images/sketch healing.png" width="650" alt="healing"/>  
-*Sketch healing*
+<p align="center">*Sketch healing*</p>
 
 Publications
 ======
