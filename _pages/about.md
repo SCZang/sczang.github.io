@@ -23,7 +23,7 @@ I am a lecturer at School of Computer Science and Technology, Donghua University
 
 Research Interests
 ======
-My research interests include machine learning and artificial intelligence generated content (AIGC). And currently, I focus on the topics of creative design and synthesis reasoning on sketches, and you can have a brief look about some interesting results.
+My research interests include machine learning and artificial intelligence generated content (AIGC). And currently, I focus on the topics of creative design and synthesis reasoning on sketches, and you can have a brief look about some interesting results below.
 
 <img src="images/self-organization.png" width="950" alt="self-organization"/>  
 <p align="center">Self-organizing sketch patterns in a latent hierarchy</p>
