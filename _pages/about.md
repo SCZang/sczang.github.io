@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-School of Computer Science and Technology\\
-Donghua University\\
+School of Computer Science and Technology  
+Donghua University  
 Shanghai, China, 201620
 
-**Office**: Room 253, No.1 Academic Building, Songjiang Campus\\
+**Office**: Room 253, No.1 Academic Building, Songjiang Campus  
 **E-mail**: sczang@dhu.edu.cn
 
 
