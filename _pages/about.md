@@ -8,15 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-School of Computer Science and Technology
-
-Donghua University
-
+School of Computer Science and Technology\\
+Donghua University\\
 Shanghai, China, 201620
 
-**Office**: Room 253, No.1 Academic Building, Songjiang Campus
-
-**Email**: sczang@dhu.edu.cn
+**Office**: Room 253, No.1 Academic Building, Songjiang Campus\\
+**E-mail**: sczang@dhu.edu.cn
 
 
 
@@ -31,21 +28,23 @@ My research interests include machine learning and artificial intelligence gener
 
 Publications
 ======
-[8] **Sicong Zang**, Shikui Tu*, Lei Xu*. [Self-organizing a latent hierarchy of sketch patterns for controllable sketch synthesis](https://ieeexplore.ieee.org/abstract/document/10144693). IEEE Transactions on Neural Networks and Learning Systems. DOI: 10.1109/TNNLS.2023.3279410. (CCF-B, SCI, 中科院一区top, IF:10.4) [codes](https://github.com/CMACH508/RPCL-pix2seqH)
+[8] **Sicong Zang**, Shikui Tu*, Lei Xu*. [Self-organizing a latent hierarchy of sketch patterns for controllable sketch synthesis](https://ieeexplore.ieee.org/abstract/document/10144693). ***IEEE Transactions on Neural Networks and Learning Systems***, DOI: 10.1109/TNNLS.2023.3279410. (CCF-B, SCI, 中科院一区top) [\[codes\]](https://github.com/CMACH508/RPCL-pix2seqH)
 
-[7] **Sicong Zang**, Shikui Tu*, Lei Xu*. [Linking sketch patches by learning synonymous proximity for graphic sketch representation](https://ojs.aaai.org/index.php/AAAI/article/view/26314). in Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI’23), 2023, 37(9): 11096-11103. (CCF-A, Oral) [codes](https://github.com/CMACH508/SP-gra2seq)
+[7] **Sicong Zang**, Shikui Tu*, Lei Xu*. [Linking sketch patches by learning synonymous proximity for graphic sketch representation](https://ojs.aaai.org/index.php/AAAI/article/view/26314). ***Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI’23)***, 2023, 37(9): 11096-11103. (CCF-A, Oral) [\[codes\]](https://github.com/CMACH508/SP-gra2seq)
 
-[6] **臧思聪**, 涂仕奎*, 徐雷*. [IA-pix2seq: 一个实现简笔画可控生成的深度双向学习方法](http://cjc.ict.ac.cn/online/onlinepaper/zsc-202331104401.pdf). 计算机学报, 2023, 46(03): 540-551. (CCF-T1) [codes](https://github.com/CMACH508/IA-pix2seq)
+[6] **臧思聪**, 涂仕奎*, 徐雷*. [IA-pix2seq: 一个实现简笔画可控生成的深度双向学习方法](http://cjc.ict.ac.cn/online/onlinepaper/zsc-202331104401.pdf). ***计算机学报***, 2023, 46(03): 540-551. (CCF-T1) [\[codes\]](https://github.com/CMACH508/IA-pix2seq)
 
-[5] Tengjie Li, **Sicong Zang**, Shikui Tu*, Lei Xu*. [Lmser-pix2seq: Learning stable sketch representations for sketch healing](https://openreview.net/forum?id=I9J8gIyqRE). *Submitted to *.
+[5] Tengjie Li, **Sicong Zang**, Shikui Tu*, Lei Xu*. [Lmser-pix2seq: Learning stable sketch representations for sketch healing](https://openreview.net/forum?id=I9J8gIyqRE). Submitted to *Computer Vision and Image Understanding*.
  
-[4] **Sicong Zang**, Shikui Tu*, Lei Xu*. [Controllable stroke-based sketch synthesis from a self-organized latent space](https://www.sciencedirect.com/science/article/pii/S0893608021000149). Neural Networks, 2021, 137: 138-150. (CCF-B, SCI, 中科院一区top, IF: 7.8) [codes](https://github.com/CMACH508/RPCL-pix2seq)
+[4] **Sicong Zang**, Shikui Tu*, Lei Xu*. [Controllable stroke-based sketch synthesis from a self-organized latent space](https://www.sciencedirect.com/science/article/pii/S0893608021000149). ***Neural Networks***, 2021, 137: 138-150. (CCF-B, SCI, 中科院一区top) [\[codes\]](https://github.com/CMACH508/RPCL-pix2seq)
  
-[3] **Sicong Zang**, Dechang Pi*, Xuemin Zhang, Xuhui Shen. [Recognizing methods for epicenter-neighboring orbits with ionospheric information from DEMETER satellite data](https://www.sciencedirect.com/science/article/pii/S0273117717303897). Advances in Space Research, 2017, 60(5): 980-990. (SCI)
+[3] **Sicong Zang**, Dechang Pi*, Xuemin Zhang, Xuhui Shen. [Recognizing methods for epicenter-neighboring orbits with ionospheric information from DEMETER satellite data](https://www.sciencedirect.com/science/article/pii/S0273117717303897). ***Advances in Space Research***, 2017, 60(5): 980-990. (SCI)
  
-[2] **Sicong Zang**, Dechang Pi*, Xuemin Zhang, Xuhui Shen. [Seismic classification-based method for recognizing epicenter-neighboring orbits](https://www.sciencedirect.com/science/article/pii/S0273117717300467). Advances in Space Research, 2017, 59(7): 1886-1894. (SCI)
+[2] **Sicong Zang**, Dechang Pi*, Xuemin Zhang, Xuhui Shen. [Seismic classification-based method for recognizing epicenter-neighboring orbits](https://www.sciencedirect.com/science/article/pii/S0273117717300467). ***Advances in Space Research***, 2017, 59(7): 1886-1894. (SCI)
 
-[1] **Sicong Zang**, Dechang Pi*. [Software Reliability Growth Model for Imperfect Debugging Process Considering Testing-Effort and Testing Coverage](http://tnuaa.nuaa.edu.cn/html/2018/3/20180308.htm). Transactions on Nanjing University of Aeronautics and Astronautics, 2018, 35(3): 455-463. (EI)
+[1] **Sicong Zang**, Dechang Pi*. [Software Reliability Growth Model for Imperfect Debugging Process Considering Testing-Effort and Testing Coverage](http://tnuaa.nuaa.edu.cn/html/2018/3/20180308.htm). ***Transactions on Nanjing University of Aeronautics and Astronautics***, 2018, 35(3): 455-463. (EI)
+
+*\*Corresponding author(s)*
 
 Projects
 ======
@@ -54,7 +53,7 @@ Projects
 
 Teaching
 ======
-
+The Curriculum Design of Computer Application (计算机应用课程设计): (2023 Fall).
 
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
