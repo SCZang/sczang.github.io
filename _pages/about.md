@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sicong Zang"
+title: "Sicong Zang (臧思聪)"
 excerpt: "Sicong Zang"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,52 @@ redirect_from:
   - /about.html
 ---
 
-**Biography**
+School of Computer Science and Technology
 
-I am a lecturer at School of Computer Science and Technology, Donghua University. I obtained my Ph.D. majoring in computer science from Shanghai Jiao Tong University (SJTU) in 2023, under the supervision of Prof. [Lei Xu]() and Assoc. Prof. [Shikui Tu](https://www.cs.sjtu.edu.cn/~tushikui/), and my B.Sc. and M.Sc. from Nanjing University of Aeronautics and Astronautics (NUAA) in 2014 and 2017, respectively.
+Donghua University
+
+Shanghai, China, 201620
+
+**Office**: Room 253, No.1 Academic Building, Songjiang Campus
+
+**Email**: sczang@dhu.edu.cn
 
 
 
+Biography
+======
+I am a lecturer at School of Computer Science and Technology, Donghua University. I obtained my Ph.D. majoring in computer science from Shanghai Jiao Tong University (SJTU) in 2023, under the supervision of Prof. [Lei Xu](https://www.cs.sjtu.edu.cn/~lxu/) and Assoc. Prof. [Shikui Tu](https://www.cs.sjtu.edu.cn/~tushikui/), and my B.Sc. and M.Sc. from Nanjing University of Aeronautics and Astronautics (NUAA) in 2014 and 2017, respectively.
+
+Research Interests
+======
+My research interests include machine learning and artificial intelligence generated content (AIGC). And currently, I focus on the topics of creative design and synthesis reasoning on sketches, and here follows several interest results of my recent studies. More details are available from my publication below.
+
+
+Publications
+======
+[8] Sicong Zang, Shikui Tu*, Lei Xu*. [Self-organizing a latent hierarchy of sketch patterns for controllable sketch synthesis](https://ieeexplore.ieee.org/abstract/document/10144693). IEEE Transactions on Neural Networks and Learning Systems. DOI: 10.1109/TNNLS.2023.3279410. (CCF-B, SCI, 中科院一区, IF:14.255) [codes]()
+
+[7] Sicong Zang, Shikui Tu*, Lei Xu*. [Linking sketch patches by learning synonymous proximity for graphic sketch representation](). in Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI’23), 2023, 37(9): 11096-11103. (CCF-A, Oral) [codes]()
+
+[6] 臧思聪, 涂仕奎*, 徐雷*. [IA-pix2seq: 一个实现简笔画可控生成的深度双向学习方法](http://cjc.ict.ac.cn/online/onlinepaper/zsc-202331104401.pdf). 计算机学报, 2023, 46(03): 540-551. (CCF-T1) [codes]()
+
+[5] Tengjie Li, Sicong Zang, Shikui Tu*, Lei Xu*. [Lmser-pix2seq: Learning stable sketch representations for sketch healing](https://openreview.net/forum?id=I9J8gIyqRE). *Submitted to * [codes]()
+ 
+[4] Sicong Zang, Shikui Tu*, Lei Xu*. [Controllable stroke-based sketch synthesis from a self-organized latent space](https://www.sciencedirect.com/science/article/pii/S0893608021000149). Neural Networks, 2021, 137: 138-150. (CCF-B, SCI, 中科院一区, IF: 9.657) [codes]()
+ 
+[3] Sicong Zang, Dechang Pi*, Xuemin Zhang, Xuhui Shen. [Recognizing methods for epicenter-neighboring orbits with ionospheric information from DEMETER satellite data](https://www.sciencedirect.com/science/article/pii/S0273117717303897). Advances in Space Research, 2017, 60(5): 980-990. (SCI)
+ 
+[2] Sicong Zang, Dechang Pi*, Xuemin Zhang, Xuhui Shen. [Seismic classification-based method for recognizing epicenter-neighboring orbits](https://www.sciencedirect.com/science/article/pii/S0273117717300467). Advances in Space Research, 2017, 59(7): 1886-1894. (SCI)
+
+[1] Sicong Zang, Dechang Pi*. [Software Reliability Growth Model for Imperfect Debugging Process Considering Testing-Effort and Testing Coverage](http://tnuaa.nuaa.edu.cn/html/2018/3/20180308.htm). Transactions on Nanjing University of Aeronautics and Astronautics, 2018, 35(3): 455-463. (EI)
+
+Projects
+======
+[1] 科技创新2030 “新一代人工智能”重大项目的课题“双向双域因果计算理论与方法”, 2019.12 – 2022.12, 参与
+
+
+Teaching
+======
 
 
 
