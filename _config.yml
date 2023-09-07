@@ -10,7 +10,7 @@ title                    : "Sicong Zang's Homepage"
 title_separator          : "-"
 name                     : &name "Sicong Zang"
 description              : &description "Lecturer, School of Computer Science and Technology, Donghua University, Shanghai, China"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://sczang.github.io"
+url                      : https://sczang.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,13 @@ analytics:
 # Site Author
 author:
   name             : "Sicong Zang (臧思聪)"
-  avatar           : "profile.png"
+  avatar           : "./images/sczang.png"
   bio              : "School of Computer Science and Technology, Donghua University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google,com/citations?user=0R8uikQAAAAJ"
-  email            : sczang@dhu.edu.cn "sczang@dhu.edu.cn"
-  room             : Room 253, No.1 Academic Building, Songjiang Campus
+  email            : "sczang@dhu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
