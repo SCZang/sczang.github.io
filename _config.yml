@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Your Name / Site Title"
+title                    : "Sicong Zang's Homepage"
 title_separator          : "-"
 name                     : &name "Sicong Zang"
 description              : &description "Lecturer, School of Computer Science and Technology, Donghua University, Shanghai, China"
