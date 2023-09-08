@@ -66,3 +66,5 @@ The Curriculum Design of Computer Application (计算机应用课程设计): (20
 
 
 <a href="https://clustrmaps.com/site/1bwgm" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=tBMZS5BWjUUUTqI4tiaqPWAJZZl-94HfgWDnFHtkX0E&cl=ffffff"></a>
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tBMZS5BWjUUUTqI4tiaqPWAJZZl-94HfgWDnFHtkX0E&cl=ffffff&w=a"></script>
