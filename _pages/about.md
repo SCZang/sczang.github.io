@@ -64,6 +64,5 @@ Teaching
 ======
 The Curriculum Design of Computer Application (计算机应用课程设计): (2023 Fall).
 
-Last updated on Sept. 08, 2023.
-
+*Last updated on Sept. 08, 2023.*
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tBMZS5BWjUUUTqI4tiaqPWAJZZl-94HfgWDnFHtkX0E&cl=ffffff&w=a"></script>
