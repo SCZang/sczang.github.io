@@ -20,7 +20,7 @@ Shanghai, China, 201620
 
 Biography
 ======
-I am a lecturer at School of Computer Science and Technology, Donghua University. I obtained my Ph.D. majoring in computer science from Shanghai Jiao Tong University (SJTU) in 2023, under the supervision of Prof. [Lei Xu](https://www.cs.sjtu.edu.cn/~lxu/) and Assoc. Prof. [Shikui Tu](https://www.cs.sjtu.edu.cn/~tushikui/), and my B.Sc. and M.Sc. from Nanjing University of Aeronautics and Astronautics (NUAA) in 2014 and 2017, respectively.
+I am a lecturer at School of Computer Science and Technology, Donghua University. I obtained my Ph.D. majoring in computer science from Shanghai Jiao Tong University (SJTU) in 2023, under the supervision of Prof. [Lei Xu](https://www.cs.sjtu.edu.cn/~lxu/) and Assoc. Prof. [Shikui Tu](https://www.cs.sjtu.edu.cn/~tushikui/), and my B.Sc. and M.Eng. from Nanjing University of Aeronautics and Astronautics (NUAA) in 2014 and 2017, respectively.
 
 Research Interests
 ======
