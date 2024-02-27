@@ -15,12 +15,9 @@ Shanghai, China, 201620
 **Office**: Room 253, Academic Building #1, Songjiang Campus  
 **E-mail**: sczang@dhu.edu.cn
 
-* 欢迎对机器学习和人工智能生成内容（AIGC）方向感兴趣的本科生联系我。  
-* 欢迎志愿参加各类数学建模竞赛的本科生和研究生联系我。作为队长，我在2012-2015年间获得8次省部级以上奖项（全国大学生/研究生数学建模竞赛、全国统计建模竞赛、全国电工数学建模竞赛等）。相信我可以带领大家斩获佳绩！
-
 Biography
 ======
-I am a lecturer at School of Computer Science and Technology, Donghua University. I obtained my Ph.D. majoring in computer science from Shanghai Jiao Tong University (SJTU) in 2023, under the supervision of Prof. [Lei Xu](https://www.cs.sjtu.edu.cn/~lxu/) and Assoc. Prof. [Shikui Tu](https://www.cs.sjtu.edu.cn/~tushikui/), and my B.Sc. and M.Eng. from Nanjing University of Aeronautics and Astronautics (NUAA) in 2014 and 2017, respectively.
+I am a lecturer at School of Computer Science and Technology, Donghua University (DHU). I obtained my Ph.D. majoring in computer science from Shanghai Jiao Tong University (SJTU) in 2023, under the supervision of Prof. [Lei Xu](https://www.cs.sjtu.edu.cn/~lxu/) (IEEE Fellow) and Assoc. Prof. [Shikui Tu](https://www.cs.sjtu.edu.cn/~tushikui/), and my B.Sc. and M.Eng. from Nanjing University of Aeronautics and Astronautics (NUAA) in 2014 and 2017, respectively.
 
 Research Interests
 ======
@@ -40,13 +37,13 @@ Publications
 
 *\*Corresponding author(s)*
 
-[8] **Sicong Zang**, Shikui Tu\*, Lei Xu\*. Self-organizing a latent hierarchy of sketch patterns for controllable sketch synthesis. ***IEEE Transactions on Neural Networks and Learning Systems***, DOI: 10.1109/TNNLS.2023.3279410. (CCF-B, SCI, 中科院一区top) [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10144693) [\[code\]](https://github.com/CMACH508/RPCL-pix2seqH)
+[8] Tengjie Li, **Sicong Zang**, Shikui Tu\*, Lei Xu\*. Lmser-pix2seq: Learning stable sketch representations for sketch healing. ***Computer Vision and Image Understanding***, 2024, 240: 103931. (CCF-B, SCI) [\[paper\]](https://www.sciencedirect.com/science/article/pii/S1077314224000122?dgcid=author) [\[code\]](https://github.com/CMACH508/Lmser-pix2seq)
 
-[7] **Sicong Zang**, Shikui Tu\*, Lei Xu\*. Linking sketch patches by learning synonymous proximity for graphic sketch representation. ***Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI’23)***, 2023, 37(9): 11096-11103. (CCF-A, Oral) [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/26314) [\[code\]](https://github.com/CMACH508/SP-gra2seq)
+[7] **Sicong Zang**, Shikui Tu\*, Lei Xu\*. Self-organizing a latent hierarchy of sketch patterns for controllable sketch synthesis. ***IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)***, DOI: 10.1109/TNNLS.2023.3279410. (CCF-B, SCI, 中科院一区top) [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10144693) [\[code\]](https://github.com/CMACH508/RPCL-pix2seqH)
 
-[6] **臧思聪**, 涂仕奎\*, 徐雷\*. IA-pix2seq: 一个实现简笔画可控生成的深度双向学习方法. ***计算机学报***, 2023, 46(03): 540-551. (CCF-T1) [\[paper\]](http://cjc.ict.ac.cn/online/onlinepaper/zsc-202331104401.pdf) [\[code\]](https://github.com/CMACH508/IA-pix2seq)
+[6] **Sicong Zang**, Shikui Tu\*, Lei Xu\*. Linking sketch patches by learning synonymous proximity for graphic sketch representation. ***Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI’23)***, 2023, 37(9): 11096-11103. (CCF-A, Oral) [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/26314) [\[code\]](https://github.com/CMACH508/SP-gra2seq)
 
-[5] Tengjie Li, **Sicong Zang**, Shikui Tu\*, Lei Xu\*. Lmser-pix2seq: Learning stable sketch representations for sketch healing. Submitted to *Computer Vision and Image Understanding*. [\[paper\]](https://openreview.net/forum?id=I9J8gIyqRE)
+[5] **臧思聪**, 涂仕奎\*, 徐雷\*. IA-pix2seq: 一个实现简笔画可控生成的深度双向学习方法. ***计算机学报***, 2023, 46(03): 540-551. (CCF-T1) [\[paper\]](http://cjc.ict.ac.cn/online/onlinepaper/zsc-202331104401.pdf) [\[code\]](https://github.com/CMACH508/IA-pix2seq)
  
 [4] **Sicong Zang**, Shikui Tu\*, Lei Xu\*. Controllable stroke-based sketch synthesis from a self-organized latent space. ***Neural Networks***, 2021, 137: 138-150. (CCF-B, SCI, 中科院一区top) [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0893608021000149) [\[code\]](https://github.com/CMACH508/RPCL-pix2seq)
  
@@ -65,7 +62,9 @@ Projects
 
 Teaching
 ======
-The Curriculum Design of Computer Application (计算机应用课程设计): (2023 Fall).
+\* Computer Organization and Architecture (计算机组成与结构): (2024 Spring)
 
-*Last updated on Sept. 08, 2023.*
+\* The Curriculum Design of Computer Application (计算机应用课程设计): (2023 Fall).
+
+*Last updated on Feb. 27, 2024.*
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tBMZS5BWjUUUTqI4tiaqPWAJZZl-94HfgWDnFHtkX0E&cl=ffffff&w=a"></script>
