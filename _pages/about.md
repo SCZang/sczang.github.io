@@ -37,34 +37,38 @@ Publications
 
 *\*Corresponding author(s)*
 
-[8] Tengjie Li, **Sicong Zang**, Shikui Tu\*, Lei Xu\*. Lmser-pix2seq: Learning stable sketch representations for sketch healing. ***Computer Vision and Image Understanding***, 2024, 240: 103931. (CCF-B, SCI) [\[paper\]](https://www.sciencedirect.com/science/article/pii/S1077314224000122?dgcid=author) [\[code\]](https://github.com/CMACH508/Lmser-pix2seq)
+[9] Xin Wang, Tengjie Li, **Sicong Zang**, Shikui Tu\*, Lei Xu\*. Self-supervised learning for enhancing spatial awareness in free-hand sketches. ***Accepted by the 33rd International Joint Conference on Artificial Intelligence (IJCAI'24)***, 2024. (CCF-A)
 
-[7] **Sicong Zang**, Shikui Tu\*, Lei Xu\*. Self-organizing a latent hierarchy of sketch patterns for controllable sketch synthesis. ***IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)***, DOI: 10.1109/TNNLS.2023.3279410. (CCF-B, SCI, 中科院一区top) [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10144693) [\[code\]](https://github.com/CMACH508/RPCL-pix2seqH)
+[8] Tengjie Li, **Sicong Zang**, Shikui Tu\*, Lei Xu\*. [Lmser-pix2seq: Learning stable sketch representations for sketch healing](https://www.sciencedirect.com/science/article/pii/S1077314224000122?dgcid=author). ***Computer Vision and Image Understanding***, 2024, 240: 103931. (CCF-B, SCI Q1, IF: 4.5) [\[code\]](https://github.com/CMACH508/Lmser-pix2seq)
 
-[6] **Sicong Zang**, Shikui Tu\*, Lei Xu\*. Linking sketch patches by learning synonymous proximity for graphic sketch representation. ***Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI’23)***, 2023, 37(9): 11096-11103. (CCF-A, Oral) [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/26314) [\[code\]](https://github.com/CMACH508/SP-gra2seq)
+[7] **Sicong Zang**, Shikui Tu\*, Lei Xu\*. [Self-organizing a latent hierarchy of sketch patterns for controllable sketch synthesis](https://ieeexplore.ieee.org/abstract/document/10144693). ***IEEE Transactions on Neural Networks and Learning Systems (IEEE T NNLS)***, DOI: 10.1109/TNNLS.2023.3279410. (CCF-B, SCI Q1, IF: 14.255) [\[code\]](https://github.com/CMACH508/RPCL-pix2seqH)
 
-[5] **臧思聪**, 涂仕奎\*, 徐雷\*. IA-pix2seq: 一个实现简笔画可控生成的深度双向学习方法. ***计算机学报***, 2023, 46(03): 540-551. (CCF-T1) [\[paper\]](http://cjc.ict.ac.cn/online/onlinepaper/zsc-202331104401.pdf) [\[code\]](https://github.com/CMACH508/IA-pix2seq)
+[6] **Sicong Zang**, Shikui Tu\*, Lei Xu\*. [Linking sketch patches by learning synonymous proximity for graphic sketch representation](https://ojs.aaai.org/index.php/AAAI/article/view/26314). ***Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI’23)***, 2023, 37(9): 11096-11103. (CCF-A, Oral) [\[code\]](https://github.com/CMACH508/SP-gra2seq)
+
+[5] **臧思聪**, 涂仕奎\*, 徐雷\*. [IA-pix2seq: 一个实现简笔画可控生成的深度双向学习方法](http://cjc.ict.ac.cn/online/onlinepaper/zsc-202331104401.pdf). ***计算机学报***, 2023, 46(03): 540-551. (CCF-T1) [\[code\]](https://github.com/CMACH508/IA-pix2seq)
  
-[4] **Sicong Zang**, Shikui Tu\*, Lei Xu\*. Controllable stroke-based sketch synthesis from a self-organized latent space. ***Neural Networks***, 2021, 137: 138-150. (CCF-B, SCI, 中科院一区top) [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0893608021000149) [\[code\]](https://github.com/CMACH508/RPCL-pix2seq)
+[4] **Sicong Zang**, Shikui Tu\*, Lei Xu\*. [Controllable stroke-based sketch synthesis from a self-organized latent space](https://www.sciencedirect.com/science/article/pii/S0893608021000149). ***Neural Networks***, 2021, 137: 138-150. (CCF-B, SCI Q1, IF: 9.657) [\[code\]](https://github.com/CMACH508/RPCL-pix2seq)
  
-[3] **Sicong Zang**, Dechang Pi\*, Xuemin Zhang, Xuhui Shen. Recognizing methods for epicenter-neighboring orbits with ionospheric information from DEMETER satellite data. ***Advances in Space Research***, 2017, 60(5): 980-990. (SCI) [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0273117717303897)
+[3] **Sicong Zang**, Dechang Pi\*, Xuemin Zhang, Xuhui Shen. [Recognizing methods for epicenter-neighboring orbits with ionospheric information from DEMETER satellite data](https://www.sciencedirect.com/science/article/pii/S0273117717303897). ***Advances in Space Research***, 2017, 60(5): 980-990. (SCI)
  
-[2] **Sicong Zang**, Dechang Pi\*, Xuemin Zhang, Xuhui Shen. Seismic classification-based method for recognizing epicenter-neighboring orbits. ***Advances in Space Research***, 2017, 59(7): 1886-1894. (SCI) [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0273117717300467)
+[2] **Sicong Zang**, Dechang Pi\*, Xuemin Zhang, Xuhui Shen. [Seismic classification-based method for recognizing epicenter-neighboring orbits](https://www.sciencedirect.com/science/article/pii/S0273117717300467). ***Advances in Space Research***, 2017, 59(7): 1886-1894. (SCI)
 
-[1] **Sicong Zang**, Dechang Pi\*. Software Reliability Growth Model for Imperfect Debugging Process Considering Testing-Effort and Testing Coverage. ***Transactions on Nanjing University of Aeronautics and Astronautics***, 2018, 35(3): 455-463. (EI) [\[paper\]](http://tnuaa.nuaa.edu.cn/html/2018/3/20180308.htm)
+[1] **Sicong Zang**, Dechang Pi\*. [Software Reliability Growth Model for Imperfect Debugging Process Considering Testing-Effort and Testing Coverage](http://tnuaa.nuaa.edu.cn/html/2018/3/20180308.htm). ***Transactions on Nanjing University of Aeronautics and Astronautics***, 2018, 35(3): 455-463. (EI)
 
 Projects
 ======
-[2] 科技创新2030 "新一代人工智能”重大项目的课题“双向双域因果计算理论与方法", 2019.12 – 2022.12, 参与.
+[3] 中央高校基本科研业务费专项资金自由探索项目——"面向简笔画生成的表征结构自组织学习方法研究" (2024.01 - 2026.12), 主持.
 
-[1] 中国地震局合作项目 "高分遥感地震异常信息挖掘技术"，2015.10 - 2017.04，参与.
+[2] 科技创新2030 "新一代人工智能”重大项目课题——“双向双域因果计算理论与方法" (2019.12 – 2022.12), 参与.
+
+[1] 中国地震局合作项目——"高分遥感地震异常信息挖掘技术" (2015.10 - 2017.04), 参与.
 
 
 Teaching
 ======
 \* Computer Organization and Architecture (计算机组成与结构): (2024 Spring)
 
-\* The Curriculum Design of Computer Application (计算机应用课程设计): (2023 Fall).
+\* The Curriculum Design of Computer Application (计算机应用课程设计): (2023 Fall, 2024 Fall).
 
-*Last updated on Feb. 27, 2024.*
+*Last updated on Jun. 18, 2024.*
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tBMZS5BWjUUUTqI4tiaqPWAJZZl-94HfgWDnFHtkX0E&cl=ffffff&w=a"></script>
