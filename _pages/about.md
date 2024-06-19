@@ -37,7 +37,7 @@ Publications
 
 *\*Corresponding author(s)*
 
-[9] Xin Wang, Tengjie Li, **Sicong Zang**, Shikui Tu\*, Lei Xu\*. Self-supervised learning for enhancing spatial awareness in free-hand sketches. ***Accepted by the 33rd International Joint Conference on Artificial Intelligence (IJCAI'24)***, 2024. (CCF-A)
+[9] Xin Wang, Tengjie Li, **Sicong Zang**, Shikui Tu\*, Lei Xu\*. Self-supervised learning for enhancing spatial awareness in free-hand sketches. ***Accepted by the 33rd International Joint Conference on Artificial Intelligence (IJCAI'24)***, 2024. (CCF-A, Oral)
 
 [8] Tengjie Li, **Sicong Zang**, Shikui Tu\*, Lei Xu\*. [Lmser-pix2seq: Learning stable sketch representations for sketch healing](https://www.sciencedirect.com/science/article/pii/S1077314224000122?dgcid=author). ***Computer Vision and Image Understanding***, 2024, 240: 103931. (CCF-B, SCI Q1, IF: 4.5) [\[code\]](https://github.com/CMACH508/Lmser-pix2seq)
 
