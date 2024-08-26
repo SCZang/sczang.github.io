@@ -37,7 +37,7 @@ Publications
 
 *\*Corresponding author(s)*
 
-[9] Xin Wang, Tengjie Li, **Sicong Zang**, Shikui Tu\*, Lei Xu\*. Self-supervised learning for enhancing spatial awareness in free-hand sketches. ***Accepted by the 33rd International Joint Conference on Artificial Intelligence (IJCAI'24)***, 2024. (CCF-A, Oral)
+[9] Xin Wang, Tengjie Li, **Sicong Zang**, Shikui Tu\*, Lei Xu\*. [Self-supervised learning for enhancing spatial awareness in free-hand sketches](https://www.ijcai.org/proceedings/2024/566). ***Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI'24)***, 2024, 5117-5125. (CCF-A, Oral) [\[code\]](https://github.com/CMACH508/SketchGloc)
 
 [8] Tengjie Li, **Sicong Zang**, Shikui Tu\*, Lei Xu\*. [Lmser-pix2seq: Learning stable sketch representations for sketch healing](https://www.sciencedirect.com/science/article/pii/S1077314224000122?dgcid=author). ***Computer Vision and Image Understanding***, 2024, 240: 103931. (CCF-B, SCI Q1, IF: 4.5) [\[code\]](https://github.com/CMACH508/Lmser-pix2seq)
 
@@ -57,11 +57,13 @@ Publications
 
 Projects
 ======
+[4] 国家自然科学基金青年科学基金项目——"面向手绘草图生成的综合推理方法研究" (2025.01 - 2027.12), 主持.
+
 [3] 中央高校基本科研业务费专项资金自由探索项目——"面向简笔画生成的表征结构自组织学习方法研究" (2024.01 - 2026.12), 主持.
 
-[2] 科技创新2030 "新一代人工智能”重大项目课题——“双向双域因果计算理论与方法" (2019.12 – 2022.12), 参与.
+[2] 科技创新2030 "新一代人工智能”重大项目课题——“双向双域因果计算理论与方法" (2019.12 – 2022.12), 参与. (已结题)
 
-[1] 中国地震局合作项目——"高分遥感地震异常信息挖掘技术" (2015.10 - 2017.04), 参与.
+[1] 中国地震局合作项目——"高分遥感地震异常信息挖掘技术" (2015.10 - 2017.04), 参与. (已结题)
 
 
 Teaching
@@ -70,5 +72,5 @@ Teaching
 
 \* The Curriculum Design of Computer Application (计算机应用课程设计): (2023 Fall, 2024 Fall).
 
-*Last updated on Jun. 18, 2024.*
+*Last updated on Aug. 26, 2024.*
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tBMZS5BWjUUUTqI4tiaqPWAJZZl-94HfgWDnFHtkX0E&cl=ffffff&w=a"></script>
