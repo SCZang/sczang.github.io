@@ -41,7 +41,7 @@ Publications
 
 [8] Tengjie Li, **Sicong Zang**, Shikui Tu\*, Lei Xu\*. [Lmser-pix2seq: Learning stable sketch representations for sketch healing](https://www.sciencedirect.com/science/article/pii/S1077314224000122?dgcid=author). ***Computer Vision and Image Understanding***, 2024, 240: 103931. (CCF-B, SCI Q1, IF: 4.5) [\[code\]](https://github.com/CMACH508/Lmser-pix2seq)
 
-[7] **Sicong Zang**, Shikui Tu\*, Lei Xu\*. [Self-organizing a latent hierarchy of sketch patterns for controllable sketch synthesis](https://ieeexplore.ieee.org/abstract/document/10144693). ***IEEE Transactions on Neural Networks and Learning Systems (IEEE T NNLS)***, DOI: 10.1109/TNNLS.2023.3279410. (CCF-B, SCI Q1, IF: 14.255) [\[code\]](https://github.com/CMACH508/RPCL-pix2seqH)
+[7] **Sicong Zang**, Shikui Tu\*, Lei Xu\*. [Self-organizing a latent hierarchy of sketch patterns for controllable sketch synthesis](https://ieeexplore.ieee.org/abstract/document/10144693). ***IEEE Transactions on Neural Networks and Learning Systems (IEEE T NNLS)***, 2024, 35(10): 14506-14518. (CCF-B, SCI Q1, IF: 14.255) [\[code\]](https://github.com/CMACH508/RPCL-pix2seqH)
 
 [6] **Sicong Zang**, Shikui Tu\*, Lei Xu\*. [Linking sketch patches by learning synonymous proximity for graphic sketch representation](https://ojs.aaai.org/index.php/AAAI/article/view/26314). ***Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI’23)***, 2023, 37(9): 11096-11103. (CCF-A, Oral) [\[code\]](https://github.com/CMACH508/SP-gra2seq)
 
