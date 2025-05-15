@@ -19,6 +19,8 @@ Biography
 ======
 I am a lecturer at School of Computer Science and Technology, Donghua University (DHU). I obtained my Ph.D. majoring in computer science from Shanghai Jiao Tong University (SJTU) in 2023, under the supervision of Prof. [Lei Xu](https://www.cs.sjtu.edu.cn/~lxu/) (IEEE Fellow) and Assoc. Prof. [Shikui Tu](https://www.cs.sjtu.edu.cn/~tushikui/), and my B.Sc. and M.Eng. from Nanjing University of Aeronautics and Astronautics (NUAA) in 2014 and 2017, respectively.
 
+Looking for graduate students. Send your CV to sczang@dhu.edu.cn
+
 Research Interests
 ======
 My research interests include machine learning and artificial intelligence generated content (AIGC). And currently, I focus on the topics of creative design and synthesis reasoning on sketches, and you can have a brief look about some interesting results below.
@@ -37,9 +39,13 @@ Publications
 
 *\*Corresponding author(s)*
 
+[11] **Sicong Zang**\*, Zhijun Fang. [Equipping sketch patches with context-aware positional encoding for graphic sketch representation](https://www.sciencedirect.com/science/article/pii/S1077314225001080). ***Computer Vision and Image Understanding***, 2025, 258: 104385. (CCF-B, SCI Q1) [\[code\]](https://github.com/SCZang/DC-gra2seq)
+
+[10] Keyang Lin, Zhijun Fang\*, **Sicong Zang**\*, Hang Wu. [Learning Adaptive Basis Fonts to Fuse Content Features for Few-Shot Font Generation](https://link.springer.com/chapter/10.1007/978-981-96-5815-2_16). ***International Conference on Computational Visual Media (CVM'25)***, 2025, 311-332. (CCF-C) [\[code\]](https://github.com/SCZang/ABW-Font)
+
 [9] Xin Wang, Tengjie Li, **Sicong Zang**, Shikui Tu\*, Lei Xu\*. [Self-supervised learning for enhancing spatial awareness in free-hand sketches](https://www.ijcai.org/proceedings/2024/566). ***Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI'24)***, 2024, 5117-5125. (CCF-A, Oral) [\[code\]](https://github.com/CMACH508/SketchGloc)
 
-[8] Tengjie Li, **Sicong Zang**, Shikui Tu\*, Lei Xu\*. [Lmser-pix2seq: Learning stable sketch representations for sketch healing](https://www.sciencedirect.com/science/article/pii/S1077314224000122?dgcid=author). ***Computer Vision and Image Understanding***, 2024, 240: 103931. (CCF-B, SCI Q1, IF: 4.5) [\[code\]](https://github.com/CMACH508/Lmser-pix2seq)
+[8] Tengjie Li, **Sicong Zang**, Shikui Tu\*, Lei Xu\*. [Lmser-pix2seq: Learning stable sketch representations for sketch healing](https://www.sciencedirect.com/science/article/pii/S1077314224000122?dgcid=author). ***Computer Vision and Image Understanding***, 2024, 240: 103931. (CCF-B, SCI Q1) [\[code\]](https://github.com/CMACH508/Lmser-pix2seq)
 
 [7] **Sicong Zang**, Shikui Tu\*, Lei Xu\*. [Self-organizing a latent hierarchy of sketch patterns for controllable sketch synthesis](https://ieeexplore.ieee.org/abstract/document/10144693). ***IEEE Transactions on Neural Networks and Learning Systems (IEEE T NNLS)***, 2024, 35(10): 14506-14518. (CCF-B, SCI Q1, IF: 14.255) [\[code\]](https://github.com/CMACH508/RPCL-pix2seqH)
 
@@ -68,9 +74,9 @@ Projects
 
 Teaching
 ======
-\* Computer Organization and Architecture (计算机组成与结构): (2024 Spring)
+\* Computer Organization and Architecture (计算机组成与结构): (2024 Spring, 2025 Spring)
 
 \* The Curriculum Design of Computer Application (计算机应用课程设计): (2023 Fall, 2024 Fall).
 
-*Last updated on Aug. 26, 2024.*
+*Last updated on May. 15, 2025.*
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tBMZS5BWjUUUTqI4tiaqPWAJZZl-94HfgWDnFHtkX0E&cl=ffffff&w=a"></script>
