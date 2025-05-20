@@ -41,7 +41,7 @@ Publications
 
 [11] **Sicong Zang**\*, Zhijun Fang. [Equipping sketch patches with context-aware positional encoding for graphic sketch representation](https://www.sciencedirect.com/science/article/pii/S1077314225001080). ***Computer Vision and Image Understanding***, 2025, 258: 104385. (CCF-B, SCI Q1) [\[code\]](https://github.com/SCZang/DC-gra2seq)
 
-[10] Keyang Lin, Zhijun Fang\*, **Sicong Zang**\*, Hang Wu. [Learning Adaptive Basis Fonts to Fuse Content Features for Few-Shot Font Generation](https://link.springer.com/chapter/10.1007/978-981-96-5815-2_16). ***International Conference on Computational Visual Media (CVM'25)***, 2025, 311-332. (CCF-C) [\[code\]](https://github.com/SCZang/ABW-Font)
+[10] Keyang Lin, Zhijun Fang\*, **Sicong Zang**\*, Hang Wu. [Learning adaptive basis fonts to fuse content features for few-shot font generation](https://link.springer.com/chapter/10.1007/978-981-96-5815-2_16). ***International Conference on Computational Visual Media (CVM'25)***, 2025, 311-332. (CCF-C) [\[code\]](https://github.com/SCZang/ABW-Font)
 
 [9] Xin Wang, Tengjie Li, **Sicong Zang**, Shikui Tu\*, Lei Xu\*. [Self-supervised learning for enhancing spatial awareness in free-hand sketches](https://www.ijcai.org/proceedings/2024/566). ***Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI'24)***, 2024, 5117-5125. (CCF-A, Oral) [\[code\]](https://github.com/CMACH508/SketchGloc)
 
