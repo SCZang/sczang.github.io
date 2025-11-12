@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-School of Information and Intelligent Science
+School of Information and Intelligent Science,
 Donghua University  
 Shanghai, China, 201620
 
@@ -28,7 +28,7 @@ My research interests include machine learning and artificial intelligence gener
 <img src="images/manipulate.png" width="650" alt="manipulate"/>  
 <p align="center">Manipulate sketch drawing at stroke-level</p>
 
-<img src="images/sketch analogy.png" width="450" alt="analogy"/>  
+<img src="images/sketch analogy.png" width="350" alt="analogy"/>  
 <p align="center">Sketch analogy by capturing latent operators</p>
 
 <img src="images/sketch healing.png" width="650" alt="healing"/>  
