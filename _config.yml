@@ -9,7 +9,7 @@
 title                    : "Sicong Zang's Homepage"
 title_separator          : "-"
 name                     : &name "Sicong Zang"
-description              : &description "Lecturer, School of Computer Science and Technology, Donghua University, Shanghai, China"
+description              : &description "Lecturer, School of Information and Intelligent Science, Donghua University, Shanghai, China"
 url                      : https://sczang.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Sicong Zang (臧思聪)"
   avatar           : "sczang.png"
-  bio              : "School of Computer Science and Technology, Donghua University"
+  bio              : "School of Information and Intelligent Science, Donghua University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
