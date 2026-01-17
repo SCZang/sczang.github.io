@@ -41,7 +41,7 @@ Publications
 
 [13] **Sicong Zang**\*, Shuhui Gao, Zhijun Fang. Generating sketches in a hierarchical auto-regressive process for flexible sketch drawing manipulation at stroke-level. ***Accepted by the 40th AAAI Conference on Artificial Intelligence (AAAI’26)***, 2026. (CCF-A) [\[arxiv\]](https://arxiv.org/abs/2511.07889) [\[code\]](https://github.com/SCZang/Sketch-HARP)
 
-[12] Hang Wu, Keyang Lin, Zhijun Fang\*, **Sicong Zang**\*. Learning basis fonts on a hypersphere to guide gated content features fusion for few-shot font generation. ***Accepted by the 8th Chinese Conference on Pattern Recognition and Computer Vision (PRCV'25)***, 2025. (CCF-C) [\[code\]](https://github.com/SCZang/HG-Font)
+[12] Hang Wu, Keyang Lin, Zhijun Fang\*, **Sicong Zang**\*. [Learning basis fonts on a hypersphere to guide gated content features fusion for few-shot font generation](https://link.springer.com/chapter/10.1007/978-981-95-5699-1_31). ***In the 8th Chinese Conference on Pattern Recognition and Computer Vision (PRCV'25)***, 2025: 451-465.. (CCF-C) [\[code\]](https://github.com/SCZang/HG-Font)
 
 [11] **Sicong Zang**\*, Zhijun Fang. [Equipping sketch patches with context-aware positional encoding for graphic sketch representation](https://www.sciencedirect.com/science/article/pii/S1077314225001080). ***Computer Vision and Image Understanding***, 2025, 258: 104385. (CCF-B, SCI Q1) [\[arxiv\]](https://arxiv.org/abs/2403.17525) [\[code\]](https://github.com/SCZang/DC-gra2seq)
 
